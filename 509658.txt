@@ -1,0 +1,10 @@
+Project
+projName,11/12/2016 12:45,11/12/2016 19:25,descriptionProj
+Task
+taskName1,11/12/2016 12:45,11/12/2016 12:45,TaskDescription1
+Meeting
+11/12/2016 12:45,11/12/2016 12:45,MeetDescription1
+11/12/2016 12:45,11/12/2016 12:45,MeetDescription2
+WorkDone
+BugFix
+11/12/2016 12:45,11/12/2016 12:45,BugDescription1
